@@ -1,4 +1,5 @@
 # cheatsheets
 Cheatsheets are here
 <br>
-author - Saikot
+author - Sakhwat Hossain Saikot
+<br>
