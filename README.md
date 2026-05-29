@@ -1,5 +1,5 @@
 # cheatsheets
 Cheatsheets are here
 <br>
-author - Sakhwat Hossain Saikot
+creator - Sakhwat Hossain Saikot
 <br>
