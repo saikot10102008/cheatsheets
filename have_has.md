@@ -37,7 +37,7 @@ When you make a sentence negative using words like *do not (don't)* or *does not
 
 ### 3. Asking Questions
 
-Just like with negative sentences, when you ask a question starting with *Do* or *Does*, you **always use have**. The same goes for *Don't* or *Doesn't*.
+Just like with negative sentences, when you ask a question starting with *Do* or *Does*, you **always use have**. The same goes for *Don't* or *Doesn't*. Also for *did* or *didn't*
 
 * *Correct:* **Does** he **have** a pencil? (NOT: Does he has)
 * *Correct:* **Do** they **have** the keys?
